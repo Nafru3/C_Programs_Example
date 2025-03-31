@@ -1,4 +1,4 @@
-# C Programs Example  
+# C Programming Examples
 
 This project contains several C programming exercises, each illustrating fundamental concepts of the language. Below is a description of each source file included in this project.  
 
